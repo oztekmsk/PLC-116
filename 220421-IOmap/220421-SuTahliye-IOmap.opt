@@ -246,7 +246,7 @@ END;
 Frame[3]:=
 BEGIN
  Max:=true;
- Norm:="0000 0000 1324 0578";
+ Norm:="0078 0078 1612 0525";
  Min:="-001 -001";
  Access:="PROGRAM:NewProject.Resources.NewResource1.Programs.NewProgram1.Sections.Section1!Section1";
  Type:=1;
@@ -254,7 +254,7 @@ BEGIN
  BEGIN
   View[0]:=
   BEGIN
-   Yscroll:=3;
+   Yscroll:=15;
   END;
   nViews:=1;
  END;
